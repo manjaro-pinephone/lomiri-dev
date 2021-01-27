@@ -1,5 +1,5 @@
 # Manjaro Lomiri Developer Edition
-[![iso_build](https://github.com/manjaro-pinephone/lomiri-dev/workflows/iso_build/badge.svg?event=repository_dispatch)](https://github.com/manjaro-pinephone/lomiri-dev/actions)
+[![iso_build](https://github.com/manjaro-pinephone/lomiri-dev/workflows/image_build/badge.svg)](https://github.com/manjaro-pinephone/lomiri-dev/actions)
 
 ## description
 
