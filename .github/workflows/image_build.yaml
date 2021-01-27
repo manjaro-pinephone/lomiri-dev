@@ -87,7 +87,7 @@ jobs:
           sudo make -C arch-install-scripts-$pkgver check
           sudo make -C arch-install-scripts-$pkgver PREFIX=/usr install
 
-          sudo git clone https://gitlab.manjaro.org/manjaro-arm/applications/manjaro-arm-tools.git
+          sudo git clone -b lomiri https://gitlab.manjaro.org/manjaro-arm/applications/manjaro-arm-tools.git
 
           install_m_a_tools() {
               pkgname=manjaro-arm-tools
